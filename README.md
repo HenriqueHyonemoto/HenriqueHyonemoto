@@ -2,10 +2,9 @@
 
 <img src="image/Wallpaper.jpg">
 
-![mailto:ifhenriquehyonemoto@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-![https://www.linkedin.com/in/henrique-hyonemoto-689002221/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://www.youtube.com/@HenriqueHyonemoto](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
+<a href=mailto:ifhenriquehyonemoto@gmail.com target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href=https://www.linkedin.com/in/henrique-hyonemoto-689002221/ target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href=[https://www.linkedin.com/in/henrique-hyonemoto-689002221/ target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 
 </div>
 
@@ -61,10 +60,6 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 <div align="Center">
 
 ## Stats
-
-[![Henrique Hyonemoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueHyonemoto&theme=ambient_gradient&text)](https://github.com/anuraghazra/github-readme-stats)
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueHyonemoto&layout=compact&theme=ambient_gradient&hide=makefile,JupyterNotebook&hide_border=true" width=355px>
-<br>
 
 [![Henrique Hyonemoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueHyonemoto&theme=midnight-purple&bg_color=00000000&hide_border=true&text)](https://github.com/anuraghazra/github-readme-stats)
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueHyonemoto&layout=compact&theme=midnight-purple&bg_color=00000000&hide=makefile,JupyterNotebook&hide_border=true" width=355px>
