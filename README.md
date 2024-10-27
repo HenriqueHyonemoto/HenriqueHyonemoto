@@ -15,7 +15,6 @@
 
 Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, você encontrará uma combinação dos meus projetos em desenvolvimento, design e muito mais!
 
-
 </div>
 
 <br>
@@ -28,9 +27,7 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 <img src="image/Btn_CSS3.gif" width="100px">
 <img src="image/Btn_JAVASCRIPT.gif" width="100px">
 
-
 </div>
-
 
 <div align="center">
 
@@ -59,22 +56,20 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 <img src ="image/c-sharp.png" width=50px>
 <br>
 
-
-
-
 </div>
-
 
 <div align="Center">
 
 ## Stats
 
-
-
-[![Henrique Hyonemoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueHyonemoto&theme=midnight-purple&bg_color=00000000&hide_border=true&text_color=83e612)](https://github.com/anuraghazra/github-readme-stats)
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueHyonemoto&layout=compact&theme=midnight-purple&bg_color=00000000&hide=makefile,JupyterNotebook&hide_border=true&text_color=83e612" width=355px>
+[![Henrique Hyonemoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueHyonemoto&theme=ambient_gradient&text)](https://github.com/anuraghazra/github-readme-stats)
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueHyonemoto&layout=compact&theme=ambient_gradient&hide=makefile,JupyterNotebook&hide_border=true" width=355px>
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueHyonemoto&theme=high-contrast&line=9745f5&bg_color=transparent&hide_border=true&point=9745f5&title_color=9745f5&grid=true&color=83e612)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Henrique Hyonemoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueHyonemoto&theme=midnight-purple&bg_color=00000000&hide_border=true&text)](https://github.com/anuraghazra/github-readme-stats)
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueHyonemoto&layout=compact&theme=midnight-purple&bg_color=00000000&hide=makefile,JupyterNotebook&hide_border=true" width=355px>
+<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueHyonemoto&theme=high-contrast&line=9745f5&bg_color=transparent&hide_border=true&point=9745f5&title_color=9745f5&grid=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
