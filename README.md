@@ -30,27 +30,27 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 
 ### Ja criei projetos com:
 <p>
-<img src ="image/git.png" width=30px>
-<img src ="image/postgresql.png" width=30px>
-<img src ="image/php.png" width=30px>
-<img src ="image/bootstrap.png" width=30px>
-<img src ="image/laravel.png" width=30px>
-<img src ="image/vue.png" width=30px>
-<img src ="image/jquery.png" width=30px>
-<img src ="image/photoshop.png" width=30px>
-<img src ="image/arduino.png" width=30px>
-<img src ="image/collab.png" width=30px>
+<img src ="image/git.png" width=50px>
+<img src ="image/postgresql.png" width=50px>
+<img src ="image/php.png" width=50px>
+<img src ="image/bootstrap.png" width=50px>
+<img src ="image/laravel.png" width=50px>
+<img src ="image/vue.png" width=50px>
+<img src ="image/jquery.png" width=50px>
+<img src ="image/photoshop.png" width=50px>
+<img src ="image/arduino.png" width=50px>
+<img src ="image/collab.png" width=50px>
 <br>
-<img src ="image/jupyter.png" width=30px>
-<img src ="image/linux.png" width=30px>
-<img src ="image/docker.png" width=30px>
-<img src ="image/python.png" width=30px>
-<img src ="image/octave.png" width=30px>
-<img src ="image/java.png" width=30px>
-<img src ="image/androidstudio.png" width=30px>
-<img src ="image/game-maker2.png" width=30px>
-<img src ="image/cpp.png" width=30px>
-<img src ="image/c-sharp.png" width=30px>
+<img src ="image/jupyter.png" width=50px>
+<img src ="image/linux.png" width=50px>
+<img src ="image/docker.png" width=50px>
+<img src ="image/python.png" width=50px>
+<img src ="image/octave.png" width=50px>
+<img src ="image/java.png" width=50px>
+<img src ="image/androidstudio.png" width=50px>
+<img src ="image/game-maker2.png" width=50px>
+<img src ="image/cpp.png" width=50px>
+<img src ="image/c-sharp.png" width=50px>
 
 
 
