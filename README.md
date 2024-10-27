@@ -29,7 +29,7 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 
 <div align="center">
 
-### Ja criei projetos com:
+## Ferramentas já utilizadas
 
 <img src ="image/git.png" width=50px>
 <img src ="image/postgresql.png" width=50px>
