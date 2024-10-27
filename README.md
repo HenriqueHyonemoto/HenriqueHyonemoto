@@ -30,8 +30,6 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 
 <div align="center">
 
-## Ferramentas e Linguagens já utilizadas
-
 <br>
 
 <img src ="image/ferramentas-e-linguagens.png" width=1010px>
