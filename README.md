@@ -47,7 +47,7 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 <img src ="image/python.png" width=30px>
 <img src ="image/octave.png" width=30px>
 <img src ="image/java.png" width=30px>
-<img src ="image/android-studio.png" width=30px>
+<img src ="image/androidstudio.png" width=30px>
 <img src ="image/game-maker2.png" width=30px>
 <img src ="image/cpp.png" width=30px>
 <img src ="image/c-sharp.png" width=30px>
