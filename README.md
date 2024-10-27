@@ -26,10 +26,10 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 </div>
 
 
-<div>
+<div align="center">
 
 ### Ja criei projetos com:
-<p>
+
 <img src ="image/git.png" width=50px>
 <img src ="image/postgresql.png" width=50px>
 <img src ="image/php.png" width=50px>
@@ -51,6 +51,7 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 <img src ="image/game-maker2.png" width=50px>
 <img src ="image/cpp.png" width=50px>
 <img src ="image/c-sharp.png" width=50px>
+<br>
 
 
 
