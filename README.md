@@ -13,11 +13,11 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 <br>
 
 <div align="center">
-<img src="image/tech-stack-tools.gif" width="1010px">
+<img src="image/tech-stack-tools-resized.gif" width="1010px">
 </div>
 
 <div align="center">
-<img src ="image/ferramentas-e-linguagens.png" width=1010px>
+<img src ="image/ferramentas-e-linguagens-resized.png" width=1010px>
 </div>
 
 <div align="Center">
