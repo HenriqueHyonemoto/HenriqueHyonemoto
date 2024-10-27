@@ -1,4 +1,5 @@
-<div> 
+<div align="center"> 
+
 <img src="image/Wallpaper.jpg">
 
 ![mailto:ifhenriquehyonemoto@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -7,7 +8,7 @@
 
 </div>
 
-<div>
+<div align="center">
 
 ## Bem vindo ao meu Perfil!
 Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, você encontrará uma combinação dos meus projetos em desenvolvimento, design e muito mais!
@@ -16,7 +17,7 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 
 <br>
 
-<div>
+<div align="center">
 
 ## Tech Stack & Tools
 
@@ -59,7 +60,7 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 </div>
 
 
-<div>
+<div align="center">
 
 ## Stats
 
