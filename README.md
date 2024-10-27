@@ -55,7 +55,7 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 <img src ="image/c-sharp.png" width=50px>
 <br>
 
-<img src ="image/ferramentas-e-linguagens.png" width=1000px>
+<img src ="image/linguagens-e-ferramentas.png" width=1000px>
 
 </div>
 
