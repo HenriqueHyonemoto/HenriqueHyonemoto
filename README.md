@@ -22,12 +22,10 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 
 ## Tech Stack & Tools
 
-<img src="image/tech-stack.png" width="1010px">
+<img src="image/tech-stack-tools.png" width="1010px">
 </div>
 
 <div align="center">
-
-<br>
 
 <img src ="image/ferramentas-e-linguagens.png" width=1010px>
 
