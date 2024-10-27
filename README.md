@@ -60,11 +60,14 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 </div>
 
 
-<div align="center">
+<div align="Center">
 
 ## Stats
 
-[![Henrique Hyonemoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueHyonemoto&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Henrique Hyonemoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueHyonemoto&theme=midnight-purple&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueHyonemoto&layout=compact&theme=midnight-purple&bg_color=00000000&hide=makefile,JupyterNotebook&hide_border=true" width=355px>
 
 </div>
 
