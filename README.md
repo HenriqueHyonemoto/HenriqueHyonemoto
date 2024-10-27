@@ -34,7 +34,7 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 
 <br>
 
-<img src ="image/linguagens-e-ferramentas.png" width=1000px>
+<img src ="image/ferramentas-e-linguagens.png" width=1010px>
 
 </div>
 
