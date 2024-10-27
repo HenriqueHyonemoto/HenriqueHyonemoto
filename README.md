@@ -12,7 +12,8 @@
 <div align="center">
 
 ## Bem vindo ao meu Perfil!
-<p style="color:purple"> Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, você encontrará uma combinação dos meus projetos em desenvolvimento, design e muito mais!</p>
+
+Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, você encontrará uma combinação dos meus projetos em desenvolvimento, design e muito mais!
 
 
 </div>
@@ -23,8 +24,10 @@
 
 ## Tech Stack & Tools
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="image/Btn_HTML5.gif" width="100px">
+<img src="image/Btn_CSS3.gif" width="100px">
+<img src="image/Btn_JAVASCRIPT.gif" width="100px">
+
 
 </div>
 
