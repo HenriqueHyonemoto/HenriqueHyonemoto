@@ -21,10 +21,10 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 </div>
 
 <div align="Center">
-<img src = "https://github-readme-stats.vercel.app/api?username=HenriqueHyonemoto&theme=midnight-purple&hide_border=false&text" alt="https://github.com/anuraghazra/github-readme-stats" width=468px>
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueHyonemoto&layout=compact&theme=midnight-purple&hide=makefile,JupyterNotebook&hide_border=false" width=370px>
+<img src = "https://github-readme-stats.vercel.app/api?username=HenriqueHyonemoto&theme=midnight-purple&hide_border=false&text&custom_title=GitHub%20Stats" alt="https://github.com/anuraghazra/github-readme-stats" width=468px>
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueHyonemoto&layout=compact&theme=midnight-purple&hide=makefile,JupyterNotebook&hide_border=false" alt="https://github.com/anuraghazra/github-readme-stats" width=370px>
 <br>
-<img src ="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueHyonemoto&theme=high-contrast&line=9745f5&hide_border=false&point=9745f5&title_color=9745f5&grid=true" width="1010">
+<img src ="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueHyonemoto&theme=high-contrast&line=9745f5&hide_border=false&point=9745f5&title_color=9745f5&grid=true&custom_title=Contribution%20Graph" alt ="https://github.com/Ashutosh00710/github-readme-activity-graph" alt="https://github.com/Ashutosh00710/github-readme-activity-graph" width="1010">
 </div>
 
 
