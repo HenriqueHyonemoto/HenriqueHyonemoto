@@ -2,9 +2,10 @@
 
 <img src="image/Wallpaper.jpg">
 
-![mailto:ifhenriquehyonemoto@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![mailto:ifhenriquehyonemoto@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 ![https://www.linkedin.com/in/henrique-hyonemoto-689002221/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://www.youtube.com/@HenriqueHyonemoto](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
 
 </div>
 
@@ -30,7 +31,7 @@
 
 <div align="center">
 
-## Ja criei projetos com:
+## Ferramentas já utilizadas
 
 <img src ="image/git.png" width=50px>
 <img src ="image/postgresql.png" width=50px>
