@@ -1,4 +1,4 @@
-<div style=text-align:center> 
+<div> 
 <img src="image/Wallpaper.jpg">
 
 ![mailto:ifhenriquehyonemoto@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -7,7 +7,7 @@
 
 </div>
 
-<div style=text-align:center>
+<div>
 
 ## Bem vindo ao meu Perfil!
 Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, você encontrará uma combinação dos meus projetos em desenvolvimento, design e muito mais!
@@ -16,7 +16,7 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 
 <br>
 
-<div style=text-align:center>
+<div>
 
 ## Tech Stack & Tools
 
@@ -26,29 +26,29 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 </div>
 
 
-<div style=text-align:center>
+<div>
 
 ### Ja criei projetos com:
-
+<p>
 <img src ="image/git.png" width=30px>
-<img src ="image/Postgresql.png" width=30px>
+<img src ="image/postgresql.png" width=30px>
 <img src ="image/php.png" width=30px>
-<img src ="image/Bootstrap.png" width=30px>
-<img src ="image/Laravel.png" width=30px>
-<img src ="image/Vue.png" width=30px>
+<img src ="image/bootstrap.png" width=30px>
+<img src ="image/laravel.png" width=30px>
+<img src ="image/vue.png" width=30px>
 <img src ="image/jquery.png" width=30px>
-<img src ="image/Photoshop.png" width=30px>
-<img src ="image/Arduino.png" width=30px>
+<img src ="image/photoshop.png" width=30px>
+<img src ="image/arduino.png" width=30px>
 <img src ="image/collab.png" width=30px>
 <br>
-<img src ="image/Jupyter.png" width=30px>
-<img src ="image/Linux.png" width=30px>
+<img src ="image/jupyter.png" width=30px>
+<img src ="image/linux.png" width=30px>
 <img src ="image/docker.png" width=30px>
 <img src ="image/python.png" width=30px>
-<img src ="image/Octave.png" width=30px>
+<img src ="image/octave.png" width=30px>
 <img src ="image/java.png" width=30px>
-<img src ="image/AndroidStudio.png" width=30px>
-<img src ="image/GameMaker2.png" width=30px>
+<img src ="image/android-studio.png" width=30px>
+<img src ="image/game-maker2.png" width=30px>
 <img src ="image/cpp.png" width=30px>
 <img src ="image/c-sharp.png" width=30px>
 
@@ -58,7 +58,7 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 </div>
 
 
-<div style=text-align:center>
+<div>
 
 ## Stats
 
