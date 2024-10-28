@@ -1,16 +1,6 @@
 <div align="center"> 
 
-<img src="image/Wallpaper.jpg">
-<a href="mailto:ifhenriquehyonemoto@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/henrique-hyonemoto-689002221/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.youtube.com/@HenriqueHyonemoto" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</div>
-<div align="center">
-
-## Bem vindo ao meu Perfil!
-Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, você encontrará uma combinação dos meus projetos em desenvolvimento, design e muito mais!
-</div>
-<br>
+<img src ="image/hero%20section.jpg" width=1010px>
 
 <div align="center">
 <img src="image/tech-stack-tools.gif" width="1010px">
