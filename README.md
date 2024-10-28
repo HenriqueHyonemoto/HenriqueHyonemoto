@@ -1,6 +1,6 @@
 <div align="center"> 
-
 <img src ="image/hero-section.png">
+</div>
 
 <div align="center">
 <img src="image/tech-stack-tools.gif" width="1010px">
@@ -15,7 +15,6 @@
 <img src="image/projeto-piano-resized.gif" width="279px">
 <img src="image/projeto-aldh-resized.gif" width="279px">
 </div>
-
 
 <div align="Center">
 <img src = "https://github-readme-stats.vercel.app/api?username=HenriqueHyonemoto&theme=midnight-purple&hide_border=false&text&custom_title=GitHub%20Stats" alt="https://github.com/anuraghazra/github-readme-stats" width=468px>
