@@ -21,7 +21,7 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 </div>
 
 <div align="center">
-<a href="[gerenciador-de-fichas-op](https://github.com/HenriqueHyonemoto/gerenciador-de-fichas-op)"> <img src="image/projeto-rpg-resized.gif" width="279px"> </a>
+<a href="https://github.com/HenriqueHyonemoto/gerenciador-de-fichas-op"> <img src="image/projeto-rpg-resized.gif" width="279px"> </a>
 <img src="image/projeto-piano-resized.gif" width="279px">
 <img src="image/projeto-aldh-resized.gif" width="279px">
 </div>
