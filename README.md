@@ -21,9 +21,9 @@ Olá! 👋 Sou Henrique Hyonemoto, um entusiasta de tecnologia e da arte. Aqui, 
 </div>
 
 <div align="center">
-<img src="image/projeto-rpg.gif" width="300px" style="border:solid white 1px">
-<img src="image/projeto-piano-leds.gif" width="300px" style="border:solid white 1px">
-<img src="image/projeto-aldh-mod.gif" width="300px" style="border:solid white 1px">
+<img src="image/projeto-rpg.gif" width="290px" style="border:solid white 1px">
+<img src="image/projeto-piano-leds.gif" width="290px" style="border:solid white 1px">
+<img src="image/projeto-aldh-mod.gif" width="290px" style="border:solid white 1px">
 </div>
 
 
