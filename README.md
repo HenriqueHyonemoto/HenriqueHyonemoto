@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src ="image/hero-section-resized.png">
+<img src ="image/hero-section.png">
 
 <div align="center">
 <img src="image/tech-stack-tools.gif" width="1010px">
