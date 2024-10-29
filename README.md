@@ -13,7 +13,7 @@
 <div align="center">
 <a href="https://github.com/HenriqueHyonemoto/gerenciador-de-fichas-op"> <img src="image/projeto-rpg-changed.gif" width="279px"> </a>
 <a href="https://www.youtube.com/watch?v=Fwr6LIBOcUY&list=PLqw9Xr0-Ysk-LofjUVczf42Yizfjz15t9"><img src="image/projeto-piano-resized.gif" width="279px"></a>
-<a href="https://www.youtube.com/watch?v=qPiQTyTO1xE&list=PL0jT61l8O_LYy3_dyUpT_iRXWayvFjh2D&index=1"<img src="image/projeto-aldh-resized.gif" width="279px"></a>
+<a href="https://www.youtube.com/watch?v=qPiQTyTO1xE&list=PL0jT61l8O_LYy3_dyUpT_iRXWayvFjh2D&index=1"><img src="image/projeto-aldh-resized.gif" width="279px"></a>
 </div>
 
 <div align="Center">
